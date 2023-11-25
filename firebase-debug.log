@@ -1,0 +1,65 @@
+[debug] [2023-11-25T11:31:37.991Z] ----------------------------------------------------------------------
+[debug] [2023-11-25T11:31:37.994Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mahmo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-25T11:31:37.995Z] CLI Version:   12.7.0
+[debug] [2023-11-25T11:31:37.995Z] Platform:      win32
+[debug] [2023-11-25T11:31:37.996Z] Node Version:  v18.17.1
+[debug] [2023-11-25T11:31:37.997Z] Time:          Sat Nov 25 2023 17:01:37 GMT+0530 (India Standard Time)
+[debug] [2023-11-25T11:31:37.998Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-25T11:31:38.012Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-25T11:31:38.012Z] > authorizing via signed-in user (mahmoodashrafkhanm0@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\mahmo\OneDrive\Desktop\contact_list
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-11-25T11:32:07.621Z] > refreshing access token with scopes: []
+[debug] [2023-11-25T11:32:07.626Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2023-11-25T11:32:07.626Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-11-25T11:32:09.535Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2023-11-25T11:32:09.535Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-11-25T11:32:09.566Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-11-25T11:32:11.574Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-11-25T11:32:11.574Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2023-11-25T11:32:34.990Z] ----------------------------------------------------------------------
+[debug] [2023-11-25T11:32:34.997Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mahmo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-25T11:32:34.998Z] CLI Version:   12.7.0
+[debug] [2023-11-25T11:32:34.998Z] Platform:      win32
+[debug] [2023-11-25T11:32:34.999Z] Node Version:  v18.17.1
+[debug] [2023-11-25T11:32:35.000Z] Time:          Sat Nov 25 2023 17:02:34 GMT+0530 (India Standard Time)
+[debug] [2023-11-25T11:32:35.000Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-25T11:32:35.024Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-25T11:32:35.026Z] > authorizing via signed-in user (mahmoodashrafkhanm0@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\mahmo\OneDrive\Desktop\contact_list
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
